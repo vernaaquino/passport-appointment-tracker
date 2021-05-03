@@ -1,2 +1,1 @@
 # Appointment Tracker
-# appointment-tracker
